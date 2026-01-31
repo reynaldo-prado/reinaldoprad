@@ -4,7 +4,7 @@
 
 🎓 Estudante de Tecnologia com foco em Inteligência Artificial  
 💻 Aprendendo Python, Java, HTML e automação  
-📚 Atualmente estudando pela Universidade Cruzeiro do Sul  
+📚 Atualmente estudando Analise desenvolvimento de sistemas Universidade São Francisco 
 🚀 Em busca de estágio remoto na área de IA  
 
 ## 💡 Áreas de Interesse:
